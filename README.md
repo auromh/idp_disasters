@@ -3,7 +3,7 @@
 ## 1. Description
 An internally displaced person (IDP) is someone who is forced to flee his or her home but who remains within his or her country's borders. This **Visualization project** is focused on the IDPs associated to natural events, such as storms, wildfires, earthquakes, storms, landslides, and some more. 
 
-The visualizations have been done keeping in mind the Data-Ink Ratio <https://infovis-wiki.net/wiki/Data-Ink_Ratio> . Using Plotly and Plotly Express.
+The visualizations have been done keeping in mind the [Data-Ink Ratio] (https://infovis-wiki.net/wiki/Data-Ink_Ratio) . Using Plotly and Plotly Express.
 
 ### Questions
 - Is the number of natural disasters increasing with the years? Is flood the major cause for IDPs?
