@@ -13,15 +13,15 @@ The visualizations have been done keeping in mind the [Data-Ink Ratio](https://i
 ## 2. Files
 - data_preparation: loads and processes all the data that will be needed for the visualization part.Exports pickle file with merged dfs
 - Plotting: notebook used to visualize and answer to the presented questions. The following visualizations are produced:
-          - 1. Main natural causes for IDPs in the last 10 years
-          - 2. Monthly distribution of IDPs and events in the last 10 years
-          - 3. Main natural cause for IDPs by year from 2008-2018
-          - 4. Number of natural disasters by continent
-          - 5. Number of natural events vs anomalies in temperature
-          - 6. Map representation of the natural events and their impact in the last 10 years
-          - 7. Exploring a country
-          - 8. Top 10 countries with the highest number of natural events
-          - 9. Top 10 countries with the highest number of IDPs
+  1. Main natural causes for IDPs in the last 10 years
+  2. Monthly distribution of IDPs and events in the last 10 years
+  3. Main natural cause for IDPs by year from 2008-2018
+  4. Number of natural disasters by continent
+  5. Number of natural events vs anomalies in temperature
+  6. Map representation of the natural events and their impact in the last 10 years
+  7. Exploring a country
+  8. Top 10 countries with the highest number of natural events
+  9. Top 10 countries with the highest number of IDPs
 - Input: Folder containing  the csv used as input for the analysis.
 - Output: Folder containing the pickle file exported from the data_preparation notebook
 
