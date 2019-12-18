@@ -13,17 +13,18 @@ The visualizations have been done keeping in mind the [Data-Ink Ratio](https://i
 ## 2. Files
 - data_preparation: loads and processes all the data that will be needed for the visualization part.Exports pickle file with merged dfs
 - Plotting: notebook used to visualize and answer to the presented questions. The following visualizations are produced:
-  1. Main natural causes for IDPs in the last 10 years
-  2. Monthly distribution of IDPs and events in the last 10 years
-  3. Main natural cause for IDPs by year from 2008-2018
-  4. Number of natural disasters by continent
-  5. Number of natural events vs anomalies in temperature
-  6. Map representation of the natural events and their impact in the last 10 years
-  7. Exploring a country
-  8. Top 10 countries with the highest number of natural events
-  9. Top 10 countries with the highest number of IDPs
+  1. Main natural causes for IDPs in the last 10 years ![](Visualizations/IDPs_last_10_years.png)
+  2. Monthly distribution of IDPs and events in the last 10 years ![](Visualizations/monthly_distribution.png)
+  3. Main natural cause for IDPs by year from 2008-2018 ![](Visualizations/main_cause_by_year.png)
+  4. Number of natural disasters by continent ![](Visualizations/number_by_continent.png)
+  5. Number of natural events vs anomalies in temperature ![](Visualizations/temp_and_events.png)
+  6. Map representation of the natural events and their impact in the last 10 years ![](Visualizations/map.png)
+  7. Exploring a country (e.g. India) ![](Visualizations/exploring_india.png)
+  8. Top 10 countries with the highest number of natural events ![](Visualizations/top_10_countries_events.png)
+  9. Top 10 countries with the highest number of IDPs ![](Visualizations/top_10_countries_idp.png)
 - Input: Folder containing  the csv used as input for the analysis.
 - Output: Folder containing the pickle file exported from the data_preparation notebook
+- Visualizations: folder containing screenshots of the graphs made with plotly express (they aren't rendered in github)
 
 ## 3. Data Sources
 
